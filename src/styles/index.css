@@ -1,21 +1,25 @@
 @import "../styles/index.css";
 
 
-
 .bigCounter {
-    display: inline-block;
-    margin: auto;
+    display: inline-flex;
+    margin-top: 200px;
+    margin-left: 350px; 
     text-align: center;
 }
 
 .bigCounter div {
 
     display: inline-block;
-    font-size:100px;
-    line-height: 120px;
+    font-size:150px;
+    line-height: 130px;
    
-    background: black;
+    background-color:darkblue ;
     color: white;
     padding: 10px;
    
+}
+#puntos{
+    
+    text-align: center; 
 }
